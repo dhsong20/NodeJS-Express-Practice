@@ -1,0 +1,14 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "meadowlark travel agency example from orielly textbook",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dahoon Song",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
